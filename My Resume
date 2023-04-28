@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>	
+        <meta charset="UTF-8">	
+        <title>My Resume</title>	
+      </head>
+<h1>KaiLi McCamman</h1>
+<img src="./Professional Photo.jpg" alt="Picture of Me">
+<h2>Summary</h2>
+<p>I currently learning Web Development on Udemy.com through Angela's Bootcamp. I am an English/Science teacher living in Bangkok,Thailand. I have 6 years experience in teaching and administration work. </p>
+<hr>
+<h2>Education</h2>
+<ul>
+    <li>Bachelors of Science - University of Central Missouri (2016)</li>
+</ul>
+<hr>
+<h2>Work Experience</h2>
+<ul>
+    <li>English/Science Teacher</li>
+    <p>April 2023 - Present</p>
+    <ul>
+        <li>Help students stuy: English, Math, and Science to students for their entry level college exams</li>
+        <li>Create lesson plans, activities, and mock tests for student</li>
+        <li>Prepare reports, administer mock exams, and provide extra tutoring for struggling students</li>
+    </ul>
+    <p></p>
+    <li>ESL Teacher</li>
+    <p>January 2021-April 2023</p>
+    <ul>
+        <li>Helped students with their writing, reading, speaking, and listening skills </li>
+        <li>Taught English as a second language to students from ages 3-60</li>
+        <li>Provided educational help to those in a business setting</li>
+    </ul>
+</ul>
+<hr>
+<h2>Skills</h2>
+<ul>
+    <li>A2 level in Spanish</li>
+    <li>Knowledge of cultural differences in Europe and Asia</li>
+    <li>Organizational skills by task and order</li>
+</ul>
+<hr>
+<h2>Awards and Certificates</h2>
+<ul>
+    <li>TEFL Certification</li>
+    <li>Black and Red Scholarship</li>
+</ul>
+<h2>Other</h2>
+<a href="./contact.html" <h3>Contact Me</h3>
+<a href="./hobbies.html"<h3>My Hobbies</h3>
+<footer>
+    <p>KaiLi All Right Reserved</p>
+</footer>
+</html>
